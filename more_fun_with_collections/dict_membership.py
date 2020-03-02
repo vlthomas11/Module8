@@ -1,5 +1,9 @@
 def in_dict(a,b):
-    set_a = set(a)
-    value = b in set_a
+    c = b in a
+    return c
+
+
+if __name__ == '__main__':
+    in_dict()
 
 
