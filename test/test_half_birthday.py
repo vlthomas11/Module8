@@ -1,6 +1,6 @@
 import unittest
 
-from datetime import datetime, timedelta
+from datetime import datetime
 from more_fun_with_collections.half_birthday import half_birthday as topic4
 
 
